@@ -54,7 +54,7 @@ This is my personal portfolio have my Skills, Experiences Professional, Educatio
 
 ## Creator 
 
-Annie Wu ([btissamyaqine](https://github.com/btissamyaqine))
+Btissam YAQINE ([btissamyaqine](https://github.com/btissamyaqine))
 
 If you have any questions, comments, or concerns, feel free to contact me below.
 
